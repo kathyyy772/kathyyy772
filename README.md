@@ -1,8 +1,8 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 👋
 
-<!--
-**kathyyy772/kathyyy772** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é kathelyn cacho
 
+-Estou estudando na alura
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
